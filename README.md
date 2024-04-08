@@ -1,4 +1,16 @@
-### Hello there 👋 Mi nombre es Agustín Pereira
+### Hello there 👋 
+Mi nombre es Agustín Pereira, desarrollador web FullStack.
+
+## Habilidades
+
+* HTML5
+* CSS
+* Javascript
+* Bootstrap
+* PHP
+* MySQL
+* C
+  
 
 <!--
 **aguuspereira/aguuspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
