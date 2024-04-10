@@ -27,6 +27,10 @@ Cuento con conocimientos tanto frontend como backend, siendo el ultimo de mas in
 * ### Tecnico Electromecanico - 2012/2017 (Finalizado)
   #### Colegio San Jose de Rosario (Rosario, Santa Fe) -- Modalidad Presencial
 
+## Trabajo
+
+* ### Administrativo Tecnico de Mantenimiento - 2022/Actualidad
+
 <!--
 **aguuspereira/aguuspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
