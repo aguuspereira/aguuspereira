@@ -1,15 +1,16 @@
 # ¡Hola, soy Agustín Pereira!👋
 
-Soy desarrollador web con conocimientos tanto frontend como backend, siendo el ultimo de mi mayor interes.  
-Mi comienzo en el mundo del desarrollo comenzó alla por el año 2020, comenzando con cursos de Youtube o leyendo documentacion en portales web. La practica y el interes en saber como funcionaba una pagina web fue lo que me guió en este mundo tan amplio.  
-Iniciando el año 2023, decidí comenzar la Diplomatura en Programacion Web FullStack (HTML5, CSS3, Javascript, Bootstrap, PHP, MySQL) obteniendo las bases necesarias para comenzar en 2024 la Tecnicatura Universitaria en Progamacion.    
+Soy desarrollador web con conocimientos tanto Frontend como Backend, siendo el último de mi mayor interés.  
+Mi comienzo en el mundo del desarrollo comenzó allá por el año 2020, comenzando con cursos de YouTube o leyendo documentación en portales web. La práctica y el interés en saber cómo funcionaba una página web fue lo que me guio en este mundo tan amplio.  
+Iniciando el año 2023, decidí comenzar la Diplomatura en Programación Web Fullstack (HTML5, CSS3, Javascript, Bootstrap, PHP, MySQL) obteniendo las bases necesarias para comenzar en 2024 la Tecnicatura Universitaria en Programación.  
+    
 
 
 <!-- Habilidades obtenidas hasta abril 2024 -->
 
 
 ## Habilidades
-Desde mi comienzo en el desarrollo web y en el analisis de datos, adquirí las siguientes habilidades tecnicas:
+Desde mi comienzo en el desarrollo web y en el análisis de datos, adquirí las siguientes habilidades técnicas:
 
 
 <!-- Badges descargados de https://github.com/Ileriayo/markdown-badges#badges -->
@@ -39,13 +40,13 @@ Desde mi comienzo en el desarrollo web y en el analisis de datos, adquirí las s
 <!-- Educacion y cursos realizados -->
 
 
-## Educacion y Cursos
+## Educación y Cursos
 
 > ### [Universidad Tecnologica Nacional (FRRo)](https://dpec.frro.utn.edu.ar/)
-> *Tecnicatura Universitaria en Programacion* | *Marzo 2024 - Actualidad*  
+> *Tecnicatura Universitaria en Programación* | *Marzo 2024 - Actualidad*  
 
 > ### [Elearning Total - Universidad Tecnologica Nacional (FRRe)](https://site.elearning-total.com/course/informatica-y-tecnologia-29/diseno-web-25/diplomatura-en-programacion-web-fullstack/?com=et)
-> *Diplomatura en Programacion Web FullStack* | *Abril 2023 - Febrero 2024*  
+> *Diplomatura en Programación Web Fulltack* | *Abril 2023 - Febrero 2024*  
 > Maquetación web, Responsive Design, SQL, Variables y Funciones, Bucles y Vectores. El uso de Variables globales, Funciones mysqli_, Integración, funciones para fechas con PHP, Funciones para Crear, Escribir y Leer archivos, Manejo de Imágenes en PHP, Formatos, Marcas de agua, Thumnails, Imágenes dinámicas, Captcha, Concepto, Tipos y Librerías.
 
 > ### [Coderhouse](https://www.coderhouse.com/ar/online/data-analytics)
